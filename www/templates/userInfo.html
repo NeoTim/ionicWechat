@@ -1,0 +1,90 @@
+<ion-header-bar class="bar-dark">
+	<div class="buttons">
+		<button class="button button-icon icon ion-ios-arrow-back" ng-click="goBack();">
+		</button>
+	</div>
+	<h1 class="title">详细资料</h1>
+	<div class="buttons">
+		<button class="button button-icon icon ion-ios-more" ng-click=""></button>
+	</div>
+</ion-header-bar>
+<!-- <ion-view view-title="详细资料">
+	<ion-nav-buttons side="left">
+		<button class="button button-icon icon ion-ios-arrow-back" ng-click="goBack();">
+		</button>
+	</ion-nav-buttons>
+	<ion-nav-buttons side="right">
+		<button class="button button-icon icon ion-ios-more" ng-click=""></button>
+	</ion-nav-buttons> -->
+	<ion-content class="bgf8">
+		<ion-list class="gp-list">
+		  <ion-item class="gp-item">
+				<div class="gp-item-left gp-item-left-img">
+					<img ng-src="{{user.picture.thumbnail}}">
+				</div>
+				<div class="gp-item-right gp-item-right-img">
+					<h2 ng-bind="user.name"></h2><i style="color: #E141DA;" class="icon ion-female" ng-show="user.gender == 'female'"></i><i style="color: #4164E1;" class="icon ion-male" ng-show="user.gender == 'male'"></i>
+					<p style="color:#999;">Email: {{user.email}}</p>
+					<p></p>
+				</div>
+		  </ion-item>
+		</ion-list>
+		<ion-list class="gp-list">
+			<ion-item class="gp-item">
+				<div class="gp-item-left">
+					Phone
+				</div>
+				<div class="gp-item-right">
+					<p style="color:#2d31ca;" ng-bind="user.phone"></p>
+				</div>
+			</ion-item>
+			<ion-item class="gp-item">
+				<div class="gp-item-left">
+					Cell
+				</div>
+				<div class="gp-item-right">
+					<p ng-bind="user.cell"></p>
+				</div>
+			</ion-item>
+		</ion-list>
+		<ion-list class="gp-list">
+			<ion-item class="gp-item">
+				<div class="gp-item-left">
+					City
+				</div>
+				<div class="gp-item-right">
+					<p ng-bind="user.location.city"></p>
+				</div>
+			</ion-item>
+			<ion-item class="gp-item">
+				<div class="gp-item-left">
+					Street
+				</div>
+				<div class="gp-item-right">
+					<p ng-bind="user.location.street"></p>
+				</div>
+			</ion-item>
+			<ion-item class="gp-item">
+				<div class="gp-item-left">
+					State
+				</div>
+				<div class="gp-item-right">
+					<p ng-bind="user.location.state"></p>
+				</div>
+			</ion-item>
+			<ion-item class="gp-item">
+				<div class="gp-item-left">
+					Zip
+				</div>
+				<div class="gp-item-right">
+					<p style="color: #63db2a;" ng-bind="user.location.zip"></p>
+				</div>
+			</ion-item>
+		</ion-list>
+		<ion-list>
+			<div class="send_btn" ng-click="messageDetils(user)">
+				<button class="button button-balanced">发送消息</button>
+			</div>
+		</ion-list>
+	</ion-content>
+<!-- </ion-view> -->

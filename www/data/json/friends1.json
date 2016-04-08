@@ -1,0 +1,217 @@
+{
+    "results": [
+        {
+            
+                "id": 1,
+                "gender": "male",
+                "name": "王峰",
+                "location": {
+                    "street": "8010 paddock way",
+                    "city": "traralgon",
+                    "state": "queensland",
+                    "zip": 68030
+                },
+                "email": "benjamin.ross@example.com",
+                "phone": "04-7166-3431",
+                "cell": "0482-021-325",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/71.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+                }
+            
+        },
+        {
+            
+                "id": 23,
+                "gender": "female",
+                "name": "sophie",
+                "location": {
+                    "street": "1424 sunset st",
+                    "city": "bendigo",
+                    "state": "queensland",
+                    "zip": 59698
+                },
+                "email": "sophie.caldwell@example.com",
+                "phone": "07-2163-0693",
+                "cell": "0452-513-669",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/9.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+                }
+            
+        },
+        {
+            
+                "id": 13,
+                "gender": "male",
+                "name": "tony",
+                "location": {
+                    "street": "8614 ash dr",
+                    "city": "perth",
+                    "state": "western australia",
+                    "zip": 87366
+                },
+                "email": "tony.bailey@example.com",
+                "phone": "08-3718-4163",
+                "cell": "0441-916-837",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/48.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+                }
+            
+        },
+        {
+            
+                "id": 4,
+                "gender": "male",
+                "name": "duane",
+                "location": {
+                    "street": "3458 valley view ln",
+                    "city": "port macquarie",
+                    "state": "new south wales",
+                    "zip": 45950
+                },
+                "email": "duane.banks@example.com",
+                "phone": "05-5707-7573",
+                "cell": "0437-283-974",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+                }
+            
+        },
+        {
+            
+                "id": 5,
+                "gender": "male",
+                "name": "brent",
+                "location": {
+                    "street": "1075 spring hill rd",
+                    "city": "queanbeyan",
+                    "state": "queensland",
+                    "zip": 90922
+                },
+                "email": "brent.moore@example.com",
+                "phone": "04-9947-9172",
+                "cell": "0432-796-263",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/11.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+                }
+            
+        },
+        {
+            
+                "id": 6,
+                "gender": "male",
+                "name": "sean",
+                "location": {
+                    "street": "7094 depaul dr",
+                    "city": "wollongong",
+                    "state": "new south wales",
+                    "zip": 20664
+                },
+                "email": "sean.beck@example.com",
+                "phone": "07-6059-0194",
+                "cell": "0483-427-071",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/47.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+                }
+            
+        },
+        {
+            
+                "id": 3,
+                "gender": "female",
+                "name": "brandie",
+                "location": {
+                    "street": "5072 w 6th st",
+                    "city": "adelaide",
+                    "state": "south australia",
+                    "zip": 27877
+                },
+                "email": "brandie.rhodes@example.com",
+                "phone": "04-5943-6643",
+                "cell": "0479-979-065",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/83.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+                }
+            
+        },
+        {
+            
+                "id": 8,
+                "gender": "female",
+                "name": "李玫",
+                "location": {
+                    "street": "9354 wycliff ave",
+                    "city": "coffs harbour",
+                    "state": "australian capital territory",
+                    "zip": 64616
+                },
+                "email": "edith.mason@example.com",
+                "phone": "08-4728-8530",
+                "cell": "0456-037-485",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/60.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/60.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/60.jpg"
+                }
+            
+        },
+        {
+            
+                "id": 7,
+                "gender": "male",
+                "name": "潘敏",
+                "location": {
+                    "street": "2140 e center st",
+                    "city": "tweed",
+                    "state": "western australia",
+                    "zip": 80771
+                },
+                "email": "marvin.phillips@example.com",
+                "phone": "06-2654-8989",
+                "cell": "0498-557-009",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/7.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+                }
+            
+        },
+        {
+            
+                "id": 2,
+                "gender": "male",
+                "name": "kent",
+                "location": {
+                    "street": "2575 fincher rd",
+                    "city": "darwin",
+                    "state": "victoria",
+                    "zip": 47600
+                },
+                "email": "kent.barnes@example.com",
+                "phone": "03-4437-9166",
+                "cell": "0415-327-735",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/47.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+                }
+            
+        }
+    ],
+    "nationality": "AU",
+    "seed": "42aee4c5aabcf24900",
+    "version": "0.7"
+}
